@@ -1,0 +1,22 @@
+a { cursor: pointer; }
+
+.app-container {
+    min-height: 350px;
+}
+.mainProfileContainer{
+    text-align: center;
+    width: 50%;
+    margin: auto;
+    background-color: #9acdff;
+    padding: 50px;
+    border-radius: 19px;
+}
+.allocatedTasks{
+    height: 300px;
+    overflow-y: auto;
+}
+.issueColor{
+    color: red;
+    font-size: 18px;
+    text-transform: uppercase;
+}

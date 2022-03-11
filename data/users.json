@@ -1,0 +1,32 @@
+[
+    {
+        "firstName": "rahul",
+        "designation": "intern",
+        "lastName": "sga",
+        "username": "rahul",
+        "hash": "$2a$10$MRpDtFTrYCaPvSVStfW4IOfZeSkWdfW1RijsWYy/CD2gHlGzs/Ii6",
+        "id": 1,
+        "dateCreated": "2022-03-11T16:46:38.512Z",
+        "dateUpdated": "2022-03-11T16:46:38.512Z"
+    },
+    {
+        "firstName": "rishabh",
+        "designation": "manager",
+        "lastName": "sharma",
+        "username": "badcaptain",
+        "hash": "$2a$10$Iq/MgyrO.A8D/CGCM6AGIOOwS.famz0Nxl/orEfY7MfwQ6Yo9b0g.",
+        "id": 2,
+        "dateCreated": "2022-03-11T18:55:35.291Z",
+        "dateUpdated": "2022-03-11T18:55:35.291Z"
+    },
+    {
+        "firstName": "pragati",
+        "designation": "intern",
+        "lastName": "saini",
+        "username": "prasai",
+        "hash": "$2a$10$ZIoxtLY0aIg.xTaVHD0b5OB2cBk91PtpQs8lR81kYcgi9w83/K8tu",
+        "id": 3,
+        "dateCreated": "2022-03-11T19:38:28.914Z",
+        "dateUpdated": "2022-03-11T19:38:28.914Z"
+    }
+]
