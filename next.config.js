@@ -6,6 +6,6 @@ module.exports = {
     publicRuntimeConfig: {
         apiUrl: process.env.NODE_ENV === 'development'
             ? 'http://localhost:3000/api' // development api
-            : 'http://localhost:3000/api' // production api
+            : 'https://next-js-11-registration-login-example-master-five.vercel.app/api' // production api
     }
 }
